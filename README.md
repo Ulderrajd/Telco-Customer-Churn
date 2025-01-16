@@ -10,7 +10,7 @@ This dataset provides information about a telecommunications company operating i
 
 This project aims to gain valuable insights from the dataset. Through these insights, company can adjust their service to retain its customer. Also, this project conducts a ML projection to predict potential churn customer.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/38bd8733-d67c-43c8-8252-e1f565b194c7/e42c510b-7b8a-47a3-bf54-e1a38f88a4fe/b2b5451e-a2de-4cb1-9dce-ff184ec5adec.png)
+
 
 # Data Structure
 
